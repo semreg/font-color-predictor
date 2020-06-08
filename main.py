@@ -1,7 +1,7 @@
 import tensorflow as tf
 
 def test():
-  print("123")
+  print(tf)
 
 if __name__ == "__main__":
   print("Hello, World!")
